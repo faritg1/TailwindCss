@@ -506,9 +506,6 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(51 65 85 / var(--tw-bg-opacity));
 }
-.font-bold {
-  font-weight: 700;
-}
-.underline {
-  text-decoration-line: underline;
+.font-Montserrat {
+  font-family: Montserrat, sans-serif;
 }
