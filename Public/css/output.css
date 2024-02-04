@@ -492,15 +492,15 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
-.h-64 {
-  height: 16rem;
+.h-96 {
+  height: 24rem;
 }
-.w-64 {
-  width: 16rem;
+.w-auto {
+  width: auto;
 }
-.bg-blue-500 {
+.bg-secondary {
   --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+  background-color: rgb(143 162 6 / var(--tw-bg-opacity));
 }
 .bg-slate-700 {
   --tw-bg-opacity: 1;
